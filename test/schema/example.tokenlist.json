@@ -31,6 +31,18 @@
     },
     {
       "chainId": 1,
+      "address": "0xa06a03049206402F4711359bf3B5b856E7f79fa6",
+      "symbol": "PIX",
+      "name": "PIX",
+      "decimals": 18,
+      "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
+      "tags": [
+        "compound"
+      ]
+    },
+    
+    {
+      "chainId": 97,
       "address": "0x39AA39c021dfbaE8faC545936693aC917d5E7563",
       "symbol": "cUSDC",
       "name": "Compound USD Coin",
@@ -39,7 +51,8 @@
       "tags": [
         "compound"
       ]
-    }
+    },
+    
   ],
   "version": {
     "major": 1,
